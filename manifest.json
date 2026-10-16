@@ -1,0 +1,23 @@
+{
+  "id": "my-bitchord-modules",
+  "name": "My BitChord Modules",
+  "version": "0.1.0",
+  "description": "Internet Archive lossless streaming",
+  "author": "riika",
+  "resources": ["search", "stream"],
+  "types": ["music"],
+  "category:music": [
+    {
+      "id": "internet-archive",
+      "name": "Internet Archive",
+      "author": "riika",
+      "version": "0.1.0",
+      "code": 4,
+      "type": "MODULE",
+      "description": "Free FLAC and lossless audio from the Internet Archive",
+      "tags": ["LOSSLESS", "FLAC", "NO LOGIN"],
+      "download": "modules/internet-archive.js",
+      "trusted": false
+    }
+  ]
+}
