@@ -16,7 +16,7 @@
       "type": "MODULE",
       "description": "Free FLAC and lossless audio from the Internet Archive",
       "tags": ["LOSSLESS", "FLAC", "NO LOGIN"],
-      "download": "modules/internet-archive.js",
+      "download": "internet-archive.js",
       "trusted": false
     }
   ]
